@@ -10,7 +10,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/recipe-solution-HVlVgWLJho)
+- Live Site URL: [Voce pode ver o projeto no seu browser clicando aqui/You can see the project in your own browser by clicking here](https://guilhermerodrigu3s.github.io/Frontend-Mentor---Recipe-page-solution/)
 
 ### Built with
 
